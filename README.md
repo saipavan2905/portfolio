@@ -131,7 +131,7 @@
 <ul>
     <li>Email: <a href="mailto:demavsaipavan@gmail.com">demavsaipavan@gmail.com</a></li>
     <li>Phone: +1 9405942696</li>
-    <li>LinkedIn: <a href="https://linkedin.com/in/venkatasaipavan">linkedin.com/in/venkatasaipavan</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/venkata-sai-pavan-dema-510514342/">linkedin.com/in/venkata-sai-pavan-dema-510514342</a></li>
     <li>GitHub: <a href="https://github.com/saipavan2905">github.com/saipavan2905</a></li>
 </ul>
 
