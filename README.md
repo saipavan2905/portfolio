@@ -56,7 +56,7 @@
 <body>
     <header>
         <h1>Venkata Sai Pavan Dema</h1>
-        <p>Full Stack Developer | 7+ Years of IT Expertise</p>
+        <p>Java Full Stack Developer | 7+ Years of IT Expertise</p>
     </header>
     <div class="container">
         <div class="section">
